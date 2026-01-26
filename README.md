@@ -1,4 +1,3 @@
-# Food-Price-Inflation-Analysis-2024
-Food Price Inflation Analysis 2024 - Project Hackathon 2
-tESTING
-python version 3.13.7
+# Spotify Tracks Dataset
+Spotify Tracks Dataset - Project Hackathon of Team 2. Code Institute.
+python version 3.13
