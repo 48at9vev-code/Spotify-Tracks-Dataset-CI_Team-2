@@ -1,6 +1,4 @@
-# Spotify Tracks Dataset
-
-Spotify Tracks Dataset - Project Hackathon of Team 2. Code Institute.
+# Spotify Tracks Dataset :musical_note:
 
 python version 3.13
 
