@@ -54,7 +54,17 @@ Our final outputs for the hackathon will be:
 
 **6\. Data Transformation Summary**
 
-Need to write this up!!!
+| **Original column** | **Transform applied** | **Purpose/ additional notes** |
+| --- | --- | --- |
+| **'Unamed:0 column'** | **Column was dropped** | **Ambiguity not useful for analysis** |
+| **Row with missing data** | **Row was dropped** | **Not useful for analysis** |
+| **'artists'** | **Formatting- remove spaced before and after column values** | **Values can be better compared and identified** |
+| **'track_id'** | **Formatting- remove spaced before and after column values** | **Values can be better compared and identified** |
+| **'track_name'** | **Formatting- remove spaced before and after column values** | **Values can be better compared and identified** |
+| **'album_name'** | **Formatting- remove spaced before and after column values** | **Values can be better compared and identified** |
+| **'track_genre'** | **Formatting- remove spaced before and after column values** | **Values can be better compared and identified** |
+| **'track_name' and 'track_genre'** | **Duplicated values in both for both columns dropped** | **While result makes sense. (It could be the same song in a different language) knowing that difference is not useful for analysis** |
+| **'track_genre'** | **Saved in a different file for analysis** | **Aid Dashboard** |
 
 **7\. How to Run the Project Locally**
 
