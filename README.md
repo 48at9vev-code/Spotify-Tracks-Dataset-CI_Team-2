@@ -111,4 +111,25 @@ These were the team members involved in this project and their main roles:
 - Integrated insights into visual storytelling for the final project deliverables.
 
 **Credits**
-INCLUDE CREDITS SHARED BY SWATHI
+\- Spotify Tracks Dataset (Kaggle)
+
+<https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset>
+
+\- Spotify Web API - Audio Features
+
+<https://developer.spotify.com/documentation/web-api/reference/get-audio-features>
+
+\- Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+
+<https://pandas.pydata.org/> | <https://numpy.org/> | <https://scikit-learn.org/> | <https://matplotlib.org/> | <https://seaborn.pydata.org/>
+\- K-Means Clustering - Lloyd (1982)
+
+\- Silhouette Score - Rousseeuw (1987)
+
+\- Random Forests - Breiman (2001)
+
+\- An Introduction to Statistical Learning - James et al. (2013)
+
+\- Kaggle Learn - <https://www.kaggle.com/learn>
+
+\- AI Assistance: ChatGPT / GitHub Copilot / Claude AI (used for support; outputs reviewed and adapted)
