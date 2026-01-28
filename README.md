@@ -47,7 +47,7 @@ Our final outputs for the hackathon will be:
 
 - Clean, structured dataset ready for analysis
 - EDA- Identify key correlations between attributes and answer hypothesis
-- Machine learning model for song recommendations
+- Machine learning model for song recommendations and cluster anlysis of the most popular genre
 - Power BI/Tableau dashboard with interactive visuals
 - Project documentation (e.g. README, Project Proposal etc)
 - Final presentation summarising findings, insights, and recommendations
