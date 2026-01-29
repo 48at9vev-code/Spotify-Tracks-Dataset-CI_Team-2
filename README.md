@@ -46,7 +46,9 @@ Our project focuses on analysing Spotify data trends of music listeners. As it i
 
 -H9: Artists with more tracks have higher average popularity 
 
-This project will also build a Machine learning model that recommends a song type based on the users whom have similar listening preferences.
+Link to project dashboard: 
+
+Link to project board: https://trello.com/b/OLkLmkge/team-2-spotify-tracks-dataset-final-hackathon 
 
 ## **2\. Repository Structure**
 
