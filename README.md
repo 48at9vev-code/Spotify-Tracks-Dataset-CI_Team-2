@@ -103,7 +103,15 @@ Open XXXX run all cells sequentially. The notebook will automatically download t
 
 ## **8\. Ethical considerations concerning privacy**
 
+Spotify is obligated to communicate with users exactly what data is collected and why, particularly concerning device sensor data, microphone usage and browsing history. It is expected to comply with GDPR.
+
+Ethical usage requires avoiding excessive tracking, .i.e. analysing how users make specific volume adjustments and should adhere to the principle of collecting only minimum amount of data.
+
+As AI becomes more integral, it must ensure the algorithim does not perpetuate biases and users are aware of how the models use data. 
+
 ## **9\. Social and legal Implications of the data handling and findings**
+
+Spotify's data handling raises significant social concerns around privacy, cultural influence, algorithmic bias and artost fairness, wwhile legally complying with GDPR, data security, profiling transparency and cross-border data regulations that have severe penalties for misuse or non-compliance.
 
 ## **10\. User stories**
 
