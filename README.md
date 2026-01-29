@@ -97,6 +97,8 @@ Our final outputs for the hackathon will be:
 | **'track_name' and 'track_genre'** | **Duplicated values in both for both columns dropped** | **While result makes sense. (It could be the same song in a different language) knowing that difference is not useful for analysis** |
 | **'track_genre'** | **Saved in a different file for analysis** | **Aid Dashboard** |
 
+## **8\. Key insights and Next Steps 
+
 ## **7\. How to Run the Project Locally**
 
 **Clone the Repository**
