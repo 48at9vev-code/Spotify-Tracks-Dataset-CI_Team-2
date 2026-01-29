@@ -49,6 +49,8 @@ Our project focuses on analysing Spotify data trends of music listeners. As it i
 
 Create a Machine learning model to predict the popularity of a song using ML and segment song types into clusters that can generate insight and drive strategy for user recommendations. Additionally, build a Spotify content based recommendation system to improve user experience.
 
+### **Dasboard and Project board**
+
 Link to project dashboard: 
 
 Link to project board: https://trello.com/b/OLkLmkge/team-2-spotify-tracks-dataset-final-hackathon 
