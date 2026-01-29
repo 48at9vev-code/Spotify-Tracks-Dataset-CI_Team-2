@@ -4,15 +4,15 @@ python version 3.13
 
 This repository contains all the project files for the final group hackathon in Code Institute's, Data Analytics with AI bootcamp.
 
-**1\. Project Overview & Goal**
+## **1\. Project Overview & Goal**
 
-## **Dataset & Source**
+### **Dataset & Source**
 
 This project utilises the [Spotify Tracks dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset) sourced from Kaggle, contains 114,001 individual tracks and 20 attributes.
 
 The dataset contains Spotify tracks over a range of 125 genres. Some tracks contain some audio features associated with it. The attributes contain specific characteristics about the song. (Track ID, the artist, the album, track name and track genre) As well as measurable track data. (popularity, duration minutes, danceability, energy, key, loudness, mode, speechiness, acousticness, intstrumentalness, liveness, valence, tempo and time signature)
 
-## **Project Overview**
+### **Project Overview**
 
 Our project focuses on analysing Spotify data trends of music listeners. As it is the world's most popular audio streaming platform, with over 100 million hours of audio listened to per day, analysing its data is essential to understand industry insights. We aim to explore current listening trends, understand what music drives most popularity, analyse audio feature distributions.
 
