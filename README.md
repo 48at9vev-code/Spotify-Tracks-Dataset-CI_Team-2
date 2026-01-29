@@ -1,6 +1,5 @@
 # Spotify Tracks Dataset :musical_note:
 
-python version 3.13
 
 This repository contains all the project files for the final group hackathon in Code Institute's, Data Analytics with AI bootcamp.
 
@@ -55,7 +54,7 @@ Link to project board: https://trello.com/b/OLkLmkge/team-2-spotify-tracks-datas
 ## **3\. Tools & Technologies**
 
 - **Trello**
-- **Python, Pandas, NumPy, Matplotlib, Seaborn, an eda module was also developed**
+- **Python (python version 3.13) , Pandas, NumPy, Matplotlib, Seaborn, an eda module was also developed**
 - **Jupyter Notebook**
 - **GitHub (Version Control)**
 - **Tableau**
@@ -74,7 +73,7 @@ Our final outputs for the hackathon will be:
 - Clean, structured dataset ready for analysis
 - EDA- Identify key correlations between attributes and answer hypothesis
 - Machine learning model for song recommendations and cluster anlysis of the most popular genre
-- Power BI/Tableau dashboard with interactive visuals
+- Tableau dashboard with interactive visuals
 - Project documentation (e.g. README, Project Proposal etc)
 - Final presentation summarising findings, insights, and recommendations
 
