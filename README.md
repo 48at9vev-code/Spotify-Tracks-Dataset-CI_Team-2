@@ -44,7 +44,7 @@ Our project focuses on analysing Spotify data trends of music listeners. As it i
 
 5) Do artists who own more tracks increase their chance of popularity
 
--H9: Artists with more tracks have higher average popularity 
+- H9: Artists with more tracks have higher average popularity 
 
 Link to project dashboard: 
 
