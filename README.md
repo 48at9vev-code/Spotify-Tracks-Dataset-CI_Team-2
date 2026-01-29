@@ -83,7 +83,11 @@ Link to project board: https://trello.com/b/OLkLmkge/team-2-spotify-tracks-datas
 
 ┃ ┣ 📜feature_importance.png
 
-┃ ┗ 📜test_image.jpg
+┃ ┣ 📜spotify_dashboard_screenshot.png
+
+┃ ┣ 📜spotify_dashboard_screenshot_music_type_selected.png
+
+┃ ┗ 📜spotify_dashboard_screenshort_track_selected.png
 
 ┣ 📜notebooks
 
