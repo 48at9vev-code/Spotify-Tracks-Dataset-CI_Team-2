@@ -17,7 +17,7 @@ Our project focuses on analysing Spotify data trends of music listeners. As it i
 
 ### **Key questions and Hypothesis to be explored:**
 
-1) What drives popularity in the music industry?
+**1)** What drives popularity in the music industry?
 
 - H1: More energetic tracks are more popular
 
@@ -25,7 +25,7 @@ Our project focuses on analysing Spotify data trends of music listeners. As it i
 
 - H3: Instrumental tracks are less popular
 
-2) Which music structure is favored amongst listeners?
+**2)** Which music structure is favored amongst listeners?
 
 - H4: Major- key songs are more popular than minor-key songs
 
@@ -33,15 +33,15 @@ Our project focuses on analysing Spotify data trends of music listeners. As it i
 
 - H6: High-valence (happier) tracks are more popular
 
-3) How does genre play into the popularity of a song?
+**3)** How does genre play into the popularity of a song?
 
 - H7: Popularity drivers differ by genre category
 
-4) How do Acoustic tracks play into the popularity of a song?
+**4)** How do Acoustic tracks play into the popularity of a song?
 
 - H8: Acoustic tracks are less popular on average than non-acoustic tracks
 
-5) Do artists who own more tracks increase their chance of popularity
+**5)** Do artists who own more tracks increase their chance of popularity
 
 - H9: Artists with more tracks have higher average popularity
 
@@ -99,13 +99,15 @@ Our final outputs for the hackathon will be:
 
 ## **8\. Key insights and Next Steps** 
 - The largest number of tracks belong to rock, pop, metal and Brazilian.
-- The majority of tracks have a high trend towards high energy and exhibit high loudness.
+- The majority of tracks have a high trend towards high energy (dancebility) and exhibit high loudness.
 - The majority of tracks contain vocal rather than instrumental
 - The majority of tracks are studio based and not live recordings.
 - Most popular genres include hip-hop, chill and sad
 - Genres with the highest hit rate include indie, reggae and hip -hop (more than 10% of tracks reaching >70)
 - The most popular songs however are likely to be live recordings.
-- 
+- According to the regression model, audio features explain 54% of popularity variation, wwhich is expected as popularity depends on external factors. A mixture of sound texture, rhyth, emotion and vocal presence drives popularity.
+- Song cluster profiles include 0- Instrumental, 1- Light dance songs, 2- Disco/pop ans 3- Fast & Intense
+
 ## **7\. How to Run the Project Locally**
 
 **Clone the Repository**
@@ -114,7 +116,7 @@ git clone \[<https://github.com/48at9vev-code/Spotify-Tracks-Dataset-CI_Team-2\>
 
 **Run the Notebook**
 
-Open XXXX run all cells sequentially. The notebook will automatically download the data, run the ETL pipeline, and generate all seaborn/matplotlib visualizations.
+Open 01-03_elt_eda_data_cleaning.ipynb and 04_ml-analysis.ipynb and run all cells sequentially. The notebook will automatically download the data, run the ETL pipeline, and generate all seaborn/matplotlib visualizations.
 
 ## **8\. Ethical considerations concerning privacy**
 
