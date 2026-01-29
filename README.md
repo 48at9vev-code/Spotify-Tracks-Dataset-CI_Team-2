@@ -134,7 +134,7 @@ These were the team members involved in this project and their main roles:
 - Designed user-friendly layouts and filter systems for exploring the data.
 - Integrated insights into visual storytelling for the final project deliverables.
 
-**Credits**
+### **Credits**
 
 \- Spotify Tracks Dataset (Kaggle)
 <https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset>
