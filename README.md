@@ -51,7 +51,7 @@ Create a Machine learning model to predict the popularity of a song using ML and
 
 ### **Dasboard and Project board**
 
-Link to project dashboard: 
+Link to project dashboard: https://public.tableau.com/views/spotify-tracks-dashboard/Spotify?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Link to project board: https://trello.com/b/OLkLmkge/team-2-spotify-tracks-dataset-final-hackathon 
 
