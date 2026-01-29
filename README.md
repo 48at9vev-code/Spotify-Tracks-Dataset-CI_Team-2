@@ -43,7 +43,11 @@ Our project focuses on analysing Spotify data trends of music listeners. As it i
 
 5) Do artists who own more tracks increase their chance of popularity
 
-- H9: Artists with more tracks have higher average popularity 
+- H9: Artists with more tracks have higher average popularity
+
+### **Machine Learning**
+
+Create a Machine learning model to predict the popularity of a song using ML and segment song types into clusters that can generate insight and drive strategy for user recommendations. Additionally, build a Spotify content based recommendation system to improve user experience.
 
 Link to project dashboard: 
 
@@ -114,6 +118,9 @@ As AI becomes more integral, it must ensure the algorithim does not perpetuate b
 Spotify's data handling raises significant social concerns around privacy, cultural influence, algorithmic bias and artost fairness, wwhile legally complying with GDPR, data security, profiling transparency and cross-border data regulations that have severe penalties for misuse or non-compliance.
 
 ## **10\. User stories**
+
+As a team studying data analysis, we wanted to analyse current trends on spotify's data base that could provide us with more insight on what is the most popular form of music, what structure of music is the most popular and  which artists puts out the most music and if it influences popularity. We also wanted to create a Machine learning model to predict the popularity of a song using ML and segment song types into clusters that can generate insight and drive strategy for user recommendations. Additionally, build a Spotify content based recommendation system to improve user experience.
+
 
 ## **11\. Team Members & Roles (Team 2)**
 
