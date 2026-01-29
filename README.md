@@ -97,7 +97,7 @@ Our final outputs for the hackathon will be:
 | **'track_name' and 'track_genre'** | **Duplicated values in both for both columns dropped** | **While result makes sense. (It could be the same song in a different language) knowing that difference is not useful for analysis** |
 | **'track_genre'** | **Saved in a different file for analysis** | **Aid Dashboard** |
 
-## **8\. Key insights and Next Steps** 
+## **8\. Key insights** 
 - The largest number of tracks belong to rock, pop, metal and Brazilian.
 - The majority of tracks have a high trend towards high energy (dancebility) and exhibit high loudness.
 - The majority of tracks contain vocal rather than instrumental
