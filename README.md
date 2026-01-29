@@ -57,6 +57,46 @@ Link to project board: https://trello.com/b/OLkLmkge/team-2-spotify-tracks-datas
 
 ## **2\. Repository Structure**
 
+┣ 📂data
+
+┃ ┣ 📂processed
+
+  ┃ ┣ 📂popularity_predictions.csv 
+  
+  ┃ ┗ 📜 song_clusters.csv
+
+┃ ┗ 📜raw
+
+  ┃ ┣ 📂cleaned_dataset.csv 
+  
+  ┃ ┗ 📜 dataset.csv
+
+┣ 📂image
+
+┃ ┣ 📜actual_vs_predicted.png
+
+┃ ┣ 📜cluster_visualization.png
+
+┃ ┣ 📜correlation_heatmap.png.png
+
+┃ ┣ 📜elbow_analysis.png
+
+┃ ┣ 📜feature_importance.png
+
+┃ ┗ 📜test_image.jpg
+
+┣ 📜notebooks
+
+┃ ┣ 📜01-03_etl_eda_data_cleaning.ipynb
+
+┃ ┗ 📜04_ml-analysis
+
+┣ 📜,gitignore
+
+┣ 📜README.md
+
+┗ 📜requirements.txt
+
 ## **3\. Tools & Technologies**
 
 - **Trello**
