@@ -98,7 +98,14 @@ Our final outputs for the hackathon will be:
 | **'track_genre'** | **Saved in a different file for analysis** | **Aid Dashboard** |
 
 ## **8\. Key insights and Next Steps** 
-
+- The largest number of tracks belong to rock, pop, metal and Brazilian.
+- The majority of tracks have a high trend towards high energy and exhibit high loudness.
+- The majority of tracks contain vocal rather than instrumental
+- The majority of tracks are studio based and not live recordings.
+- Most popular genres include hip-hop, chill and sad
+- Genres with the highest hit rate include indie, reggae and hip -hop (more than 10% of tracks reaching >70)
+- The most popular songs however are likely to be live recordings.
+- 
 ## **7\. How to Run the Project Locally**
 
 **Clone the Repository**
